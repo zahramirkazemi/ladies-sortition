@@ -1,0 +1,42 @@
+@font-face {
+  font-family: bYekan;
+  src: url(../assets/BYekan.ttf);
+}
+
+body {
+  background-color: #fafafa;
+  font-family: bYekan;
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  width: 100vw;
+}
+
+.temporary-message {
+  margin: 12px;
+  text-align: center;
+  direction: rtl;
+}
+
+h3 { 
+  direction: rtl;
+  padding: 0 14px;
+}
+
+.header {
+  background-color: #0B0D2B;
+  color: white;
+  border-radius: 12px;
+  padding: 8px 18px;
+  width: 80%;
+  margin: auto;
+}
+
+.progress-bar-wrapper {
+  width: 85%;
+  margin: 18px auto;
+}
