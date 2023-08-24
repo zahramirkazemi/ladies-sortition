@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zahramirkazemi/ladies-sortition/static/css/main.d6d3fe4e.css",
-    "main.js": "/zahramirkazemi/ladies-sortition/static/js/main.9439d288.js",
-    "static/media/BYekan.ttf": "/zahramirkazemi/ladies-sortition/static/media/BYekan.3877f195acbb979e94b8.ttf",
-    "index.html": "/zahramirkazemi/ladies-sortition/index.html",
-    "main.d6d3fe4e.css.map": "/zahramirkazemi/ladies-sortition/static/css/main.d6d3fe4e.css.map",
-    "main.9439d288.js.map": "/zahramirkazemi/ladies-sortition/static/js/main.9439d288.js.map"
+    "main.css": "/ladies-sortition/static/css/main.6b6d3cc7.css",
+    "main.js": "/ladies-sortition/static/js/main.9439d288.js",
+    "static/media/BYekan.ttf": "/ladies-sortition/static/media/BYekan.3877f195acbb979e94b8.ttf",
+    "index.html": "/ladies-sortition/index.html",
+    "main.6b6d3cc7.css.map": "/ladies-sortition/static/css/main.6b6d3cc7.css.map",
+    "main.9439d288.js.map": "/ladies-sortition/static/js/main.9439d288.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6d3fe4e.css",
+    "static/css/main.6b6d3cc7.css",
     "static/js/main.9439d288.js"
   ]
 }
